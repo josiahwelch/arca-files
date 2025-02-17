@@ -238,3 +238,6 @@ https://github.com/josiahwelch/arca-files/blob/main/packages/sysklogd-2.6.1.arpm
 sysvinit
 3.10
 https://github.com/josiahwelch/arca-files/blob/main/packages/sysvinit-3.10.arpm
+arca-core
+0.2
+https://github.com/josiahwelch/arca-files/blob/main/packages/arca-core-0.2.arpm
