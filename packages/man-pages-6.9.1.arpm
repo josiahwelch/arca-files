@@ -1,5 +1,6 @@
 man-pages
 6.9.1
+CORE
 wget -nc https://www.kernel.org/pub/linux/docs/man-pages/man-pages-6.9.1.tar.xz -P /tmp/arca-build/
 pushd /tmp/arca-build/
 tar -xvf man-pages-6.9.1.tar.xz
