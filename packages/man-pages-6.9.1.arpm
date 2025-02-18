@@ -1,4 +1,10 @@
 man-pages
 6.9.1
+wget -nc https://www.kernel.org/pub/linux/docs/man-pages/man-pages-6.9.1.tar.xz -P /tmp/arca-build/
+pushd /tmp/arca-build/
+tar -xvf man-pages-6.9.1.tar.xz
+pushd man-pages-6.9.1
 rm -v man3/crypt*
 make prefix=/usr install
+popd
+popd
