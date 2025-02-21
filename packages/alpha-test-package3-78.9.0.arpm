@@ -1,0 +1,6 @@
+alpha-test-package3
+78.9.0
+[alpha-test-package5-131.4.15]
+echo "testing for package 3\n\n"
+touch /tmp/package3.txt
+echo "this is package3" > /tmp/package3.txt
