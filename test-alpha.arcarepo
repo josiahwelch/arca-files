@@ -1,0 +1,15 @@
+alpha-test-package1
+12.3
+https://raw.githubusercontent.com/josiahwelch/arca-files/refs/heads/main/packages/test-alpha-package1-12.3.arpm
+alpha-test-package2
+4.5.6
+https://raw.githubusercontent.com/josiahwelch/arca-files/refs/heads/main/packages/test-alpha-package2-4.5.6.arpm
+alpha-test-package3
+78.9.0
+https://raw.githubusercontent.com/josiahwelch/arca-files/refs/heads/main/packages/test-alpha-package3-78.9.0.arpm
+alpha-test-package4
+10.11.12
+https://raw.githubusercontent.com/josiahwelch/arca-files/refs/heads/main/packages/test-alpha-package4-10.11.12.arpm
+alpha-test-package5
+131.4.15
+https://raw.githubusercontent.com/josiahwelch/arca-files/refs/heads/main/packages/test-alpha-package5-131.4.15.arpm
