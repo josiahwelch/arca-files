@@ -1,0 +1,6 @@
+test-alpha-package4
+10.11.12
+[]
+echo "testing for package 4\n\n"
+touch /tmp/package4.txt
+echo "this is package4" > /tmp/package4.txt
